@@ -22,4 +22,4 @@ The program reads from and writes to `carsales.csv` for data persistence.
 ## Compilation
 To compile the program, use the following command:
 ```sh
-gcc -o car_sales Main.c
+gcc -o Main.c
